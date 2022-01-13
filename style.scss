@@ -125,13 +125,15 @@ span {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-}
-.profile-and-rings img {
-  margin-top: 0.5rem;
-}
-.profile-and-rings .user-name {
-  margin-top: 1rem;
-  margin-left: 0.5rem;
+
+  img {
+    margin-top: 0.5rem;
+  }
+
+  .user-name {
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+  }
 }
 
 .sub {
@@ -154,5 +156,3 @@ span {
   margin-left: 5rem;
   line-height: 1.5em;
 }
-
-/*# sourceMappingURL=style.css.map */
